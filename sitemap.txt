@@ -1,3 +1,4 @@
+http://example.com/music/
 http://example.com/tags/
 http://example.com/categories/
 http://example.com/2024/04/27/hello-world/
